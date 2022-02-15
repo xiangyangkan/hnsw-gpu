@@ -4,7 +4,7 @@ GPU implementation of Hierarchical Navigable Small World (HNSW) graph algorithm 
 
 ## Quick Install
 * `git clone https://github.com/xiangyangkan/hnsw-gpu.git`
-* pip install ./hnsw-gpu
+* `pip install ./hnsw-gpu`
 
 ## Usage
     from hnsw import math
